@@ -5,3 +5,5 @@
 			hasil += f(a+i*h)
 		hasil *= h
     return hasil
+
+
